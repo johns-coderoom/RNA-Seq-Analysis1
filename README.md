@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository documents an introductory single-cell RNA sequencing (scRNA-seq) data analysis pipeline for Peripheral Blood Mononuclear Cells (PBMCs). The project aims to demonstrate fundamental steps in scRNA-seq analysis using Python and the `scanpy` library.
+This repository documents single-cell RNA sequencing (scRNA-seq) data analysis pipeline for Peripheral Blood Mononuclear Cells (PBMCs). The project aims to demonstrate fundamental steps in scRNA-seq analysis using Python and the `scanpy` library.
 
 ## Dataset
 
