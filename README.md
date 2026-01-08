@@ -6,7 +6,10 @@ This repository documents an introductory single-cell RNA sequencing (scRNA-seq)
 
 ## Dataset
 
-The analysis is performed on a publicly available dataset:
+The analysis is performed on a publicly available dataset: <img width="734" height="521" alt="download (2)" src="https://github.com/user-attachments/assets/c98077c8-dfca-449f-8e3a-9c61b771dc81" /> <img width="682" height="545" alt="download (1)" src="https://github.com/user-attachments/assets/422d22ef-b5ee-4efb-8213-3087ecb71325" /> <img width="682" height="545" alt="download (1)" src="https://github.com/user-attachments/assets/03e92051-18d4-4f90-891f-17a4943c9091" />
+
+
+
 
 - Title: "5k Peripheral Blood Mononuclear Cells (PBMCs) from a Healthy Donor (v3 chemistry)"
 - URL: https://www.10xgenomics.com/datasets/5-k-peripheral-blood-mononuclear-cells-pbm-cs-from-a-healthy-donor-v-3-chemistry-3-1-standard-3-0-2
